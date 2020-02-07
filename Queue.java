@@ -3,7 +3,6 @@
  *
  * @author
  * Nicole Niemiec
- * #112039349
  * CSE 214 REC08
  * HOMEWORK #4
  *
